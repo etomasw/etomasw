@@ -16,7 +16,7 @@
 - 💻 &nbsp; Java | Angular | React | Spring Boot 
 - 🌐 &nbsp; Android | Flutter | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Xampp 
-- 🔧 &nbsp; Android Studio | IntelliJ IDEA | Visual Studio code | Eclipse | Git |
+- 🔧 &nbsp; Android Studio | IntelliJ IDEA | Visual Studio code | Eclipse | Git
 
 <br>
 
@@ -31,6 +31,6 @@
 
 <p align="center">
 &nbsp; <a href="https://www.instagram.com/_ernest_ta/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/etoamsw/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/etomasw/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:ernesttomas87@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
